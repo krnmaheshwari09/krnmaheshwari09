@@ -1,13 +1,15 @@
 # Hi there, I'm Karan Maheshwari 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/krnmaheshwari09"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/krnmaheshwari09"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://leetcode.com/krnmaheshwari09"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:krnmaheshwari09@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/krn-maheshwari/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://codeforces.com/profile/krn.maheshwari9"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=black" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/u/krnmaheshwari2003/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/krnmahesh839k/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="mailto:krn.maheshwari9@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krnmaheshwari09&color=blue)
+![Followers](https://img.shields.io/github/followers/krnmaheshwari09?label=Followers&style=social)
 
 ## 🚀 About Me
 
@@ -37,7 +39,6 @@ I'm a passionate software developer focused on building innovative solutions and
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SOA](https://img.shields.io/badge/-SOA%20Principles-FF6C37?style=for-the-badge&logo=architecture&logoColor=white)
 
 ### Frameworks
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -57,8 +58,6 @@ I'm a passionate software developer focused on building innovative solutions and
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**AWS Services:** EC2, S3, IAM, Lambda, RDS, DynamoDB
-
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -77,21 +76,21 @@ I'm a passionate software developer focused on building innovative solutions and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krnmaheshwari09&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krnmaheshwari09&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=krnmaheshwari09&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=krnmaheshwari09&theme=algolia&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krnmaheshwari09&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krnmaheshwari09&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krnmaheshwari09&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krnmaheshwari09&theme=algolia&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ## 📈 Contribution Graph
@@ -114,10 +113,9 @@ I'm actively involved in various projects that span different domains of softwar
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/krnmaheshwari09)
-- 📧 Email: [Your Email Here]
-- 🐦 Twitter: [@krnmaheshwari09](https://twitter.com/krnmaheshwari09)
-- 🌐 Portfolio: [Your Portfolio URL]
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/krn-maheshwari/)
+- 📧 Email: [krn.maheshwari9@gmail.com]
+- 🌐 Coding Profile: [Codolio](https://codolio.com/profile/krn.mah)
 
 ---
 
