@@ -8,8 +8,10 @@
   <a href="mailto:krn.maheshwari9@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=krnmaheshwari09&color=blue)
-![Followers](https://img.shields.io/github/followers/krnmaheshwari09?label=Followers&style=social)
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=krnmaheshwari09&color=blue)
+  ![Followers](https://img.shields.io/github/followers/krnmaheshwari09?label=Followers&style=social)
+</p>
 
 ## 🚀 About Me
 
