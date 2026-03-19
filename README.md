@@ -81,7 +81,7 @@ End-to-end CI/CD pipeline with containerized microservices deployed on AWS.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krnmaheshwari09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krnmah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karan's GitHub Stats" width="48%" />
 </p>
 
 ---
